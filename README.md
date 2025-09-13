@@ -1,2 +1,1 @@
-# kali-linux-command-
-All linux command 
+ls -> list informetion about file 
